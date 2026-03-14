@@ -108,3 +108,4 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initial render
     renderGrid(currentCourt);
 });
+
